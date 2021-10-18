@@ -1,2 +1,2 @@
-# 20104099_Rasyid-Ramadhani_Pemrograman2
+# 20104099_Rasyid-Ramadhani_S1SEA_Pemrograman2
 Belajar Praktikum Pemrograman 2
