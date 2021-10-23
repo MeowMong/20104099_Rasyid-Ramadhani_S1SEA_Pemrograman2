@@ -26,7 +26,8 @@ Program ini tidak dapat berjalan karena maksimal bilangan dalam nilai angka/inte
 ```
 
 2. [Jawaban Soal 2](https://github.com/HaiNyore/20104099_Rasyid-Ramadhani_S1SEA_Pemrograman2/blob/modul2/src/com/Rasyid/modul2/latihan/AnakAyam.java)
-Program berjalan dengan adanya 'looping' dan 'if else.
+Program berjalan dengan adanya 'looping' dan 'if else'.
+#### Output :
 ```java
 === CERITA ANAK AYAM ===
 Anak ayam turun 10
@@ -53,6 +54,7 @@ Mati 1 tinggal induknya
 
 3. [Jawaban Soal 3](https://github.com/HaiNyore/20104099_Rasyid-Ramadhani_S1SEA_Pemrograman2/blob/modul2/src/com/Rasyid/modul2/latihan/ABC.java)
 Program berjalan dengan analisa input menggunakan 'while do' untuk memberikan batasan testcase.
+#### Output :
 ```java
 Masukan jumlah testcase	: 12
 Masukkan kembali Testcase (<=10)	: 20
