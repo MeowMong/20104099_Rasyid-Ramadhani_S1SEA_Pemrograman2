@@ -1,3 +1,5 @@
+package com.Rasyid.modul2.percobaan;
+
 public class CobaUnicode {
     public static void main(String args[]) {
         char a = '\u0061';
