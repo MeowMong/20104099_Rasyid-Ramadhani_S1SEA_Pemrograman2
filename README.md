@@ -1,4 +1,4 @@
-# Modul 2 : Pengenalan Pemrograman Berorienasi Objek
+# Modul 3 : Pengenalan Pemrograman Berorienasi Objek
 
 ## Dasar Teori
 * Pengenalan Pemrograman Berorientasi Objek
