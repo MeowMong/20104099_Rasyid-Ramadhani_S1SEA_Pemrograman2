@@ -1,11 +1,25 @@
-# 20104099_Rasyid-Ramadhani_S1SEA_Pemrograman2
+# Modul 2 : Pengenalan Pemrograman Berorienasi Objek
 
-### Praktikum Pemrograman 2
+## Dasar Teori
+* Pengenalan Pemrograman Berorientasi Objek
+* Deklarasi Class
+* Deklarasi Atribut
+* Deklarasi Metode
+* Pengaksesan Anggota Obyek
 
 <hr>
 
-### Daftar Isi :
-1. [Modul0 : Dasar Pemrograman Java](https://github.com/HaiNyore/20104099_Rasyid-Ramadhani_S1SEA_Pemrograman2/tree/modul0)
-2.
-3.
-4.
+## Praktikum
+Soal : 
+1. Mentransformasikan class <Tabungan> dari diagram kedalam bentuk program.
+
+
+Jawaban :
+1. [Jawaban Soal 1]()
+
+#### Output :
+```java
+
+```
+## Kesimpulan
+
