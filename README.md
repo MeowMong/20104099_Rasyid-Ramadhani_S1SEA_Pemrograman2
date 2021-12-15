@@ -83,7 +83,7 @@ public class Tes {
 <hr>
 
 ## Praktikum
-[ -> Program <- ](https://github.com/HaiNyore/20104099_Rasyid-Ramadhani_S1SEA_Pemrograman2/tree/modul7/src/com/Rasyid/modul7/percobaan)
+[ -> Program <- ](https://github.com/HaiNyore/20104099_Rasyid-Ramadhani_S1SEA_Pemrograman2/tree/modul8/src/com/Rasyid/modul8/latihan)
 
 * Percobaan dengan Virtual Method Invocation<br>
 Terdapat 3 class yang akan digunakan dalam project ini, yaitu :
@@ -144,6 +144,7 @@ public class VirtualDemo {
 
 <p>Output akan tercetak dengan data yang dimasukkan dengan objek sebelumnya.<p>
 
+<hr>
 
 ## Kesimpulan
 <p>Polimorfisme dapat dilakukan dengan inheritance, overriding, dan overloading. Ketika terjadi Polimorfisme dan Overriding dalam objek, maka terjadi Virtual Method Invocation (VMI). Polimorphic Argument dapat digunakan untuk menerima suatu nilai yang bertipe SubClass-nya.<p>
