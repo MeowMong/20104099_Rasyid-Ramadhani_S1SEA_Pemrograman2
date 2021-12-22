@@ -15,3 +15,4 @@
 6. [Modul6 : Konsep Inheritance](https://github.com/HaiNyore/20104099_Rasyid-Ramadhani_S1SEA_Pemrograman2/tree/modul6)
 7. [Modul7 : Overloading dan Overriding](https://github.com/HaiNyore/20104099_Rasyid-Ramadhani_S1SEA_Pemrograman2/tree/modul7)
 8. [Modul8 : Polimorfisme](https://github.com/HaiNyore/20104099_Rasyid-Ramadhani_S1SEA_Pemrograman2/tree/modul8)
+9. [Modul9 : Exception](https://github.com/HaiNyore/20104099_Rasyid-Ramadhani_S1SEA_Pemrograman2/tree/modul9)
